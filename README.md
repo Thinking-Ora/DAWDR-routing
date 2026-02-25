@@ -4,9 +4,9 @@
 
 ## 📦 Current Open-Source Modules
 This repository currently includes the following core components:
-* **Traffic Generation Script (`/traffic_generator`)**: Scripts designed to generate realistic or specific network traffic patterns for simulation scenarios.
-* **3D Mobility Model (`/mobility_model`)**: A custom-built script simulating complex three-dimensional movement trajectories (e.g., for UAVs, satellites, or specific nodes).
-* **OMNeT++ Simulation Environment Module (`/omnetpp_env`)**: The customized virtual network simulation modules and environment setup built on top of the [OMNeT++](https://omnetpp.org/) framework.
+* **Traffic Generation Script (`/Traffic.py`)**: Scripts designed to generate realistic or specific network traffic patterns for simulation scenarios.
+* **3D Mobility Model (`/gm_mobility_3d.py`)**: A custom-built script simulating complex three-dimensional movement trajectories (e.g., for UAVs, satellites, or specific nodes).
+* **OMNeT++ Simulation Environment Module (`/env`)**: The customized virtual network simulation modules and environment setup built on top of the [OMNeT++](https://omnetpp.org/) framework.
 
 ## 🛠 Prerequisites
 To understand or integrate the currently released modules, you should be familiar with:
